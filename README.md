@@ -1,3 +1,3 @@
 # IBMcourse
-Data Science project 
-Extracting and Visualizing Stock Data
+## Final assignment 
+Data Science project - Extracting and Visualizing Stock Data
